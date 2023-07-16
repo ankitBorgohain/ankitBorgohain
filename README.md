@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitBorgohain
-- 👀 I’m interested in working with Programming Languages
-- 🌱 I’m currently learning SpringBoot, Microservices.
-- 💞️ I’m available to collaborate on any project on advanced topics such as AI, ML etc.
+- 👀 I’m interested in working with Artificial Intellegence & Machine Learning
+- 🌱 I’m currently working with Frontend tech-stack like React.js with Tailwind CSS
+- 💞️ I’m available to collaborate on any project on advanced topics such as deep learning, Neural Network
 - 📫 Please do reach me if reqired @ankit.borgohain98@gmail.com
 
 <!---
